@@ -2,7 +2,7 @@
 
 
 
-## Αυτό είναι απλά ένα αρχείο και νέες ιδέες που βελτιώνουν τον κώδικα γύρω μας είναι πάντα ευπρόσδεκτες. Συνεισφέρετε, κάντε fork, clone, branch, commit, push και pull request.
+## Αυτό είναι απλά ένα αρχείο και νέες ιδέες που βελτιώνουν τον κώδικα και ο καθένας είναι πάντα ευπρόσδεκτος. Συνεισφέρετε, κάντε fork, clone, branch, commit, push και pull request.
 
 * Rick Waldron [@rwaldron](http://twitter.com/rwaldron), [github](https://github.com/rwaldron)
 * Mathias Bynens [@mathias](http://twitter.com/mathias), [github](https://github.com/mathiasbynens)
